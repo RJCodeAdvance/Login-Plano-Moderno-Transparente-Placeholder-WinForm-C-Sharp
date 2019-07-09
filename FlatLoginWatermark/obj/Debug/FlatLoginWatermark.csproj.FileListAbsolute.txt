@@ -1,0 +1,11 @@
+D:\RJ Code Advance\Source Code C#\2019\FlatLoginWatermark\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code C#\2019\FlatLoginWatermark\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.Properties.Resources.resources
+D:\RJ Code Advance\Source Code C#\2019\FlatLoginWatermark\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.csproj.GenerateResource.Cache
+D:\RJ Code Advance\Source Code C#\2019\FlatLoginWatermark\FlatLoginWatermark\bin\Debug\FlatLoginWatermark.exe.config
+D:\RJ Code Advance\Source Code C#\2019\FlatLoginWatermark\FlatLoginWatermark\bin\Debug\FlatLoginWatermark.exe
+D:\RJ Code Advance\Source Code C#\2019\FlatLoginWatermark\FlatLoginWatermark\bin\Debug\FlatLoginWatermark.pdb
+D:\RJ Code Advance\Source Code C#\2019\FlatLoginWatermark\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.exe
+D:\RJ Code Advance\Source Code C#\2019\FlatLoginWatermark\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.pdb
+D:\RJ Code Advance\Source Code C#\2019\FlatLoginWatermark\FlatLoginWatermark\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\RJ Code Advance\Source Code C#\2019\FlatLoginWatermark\FlatLoginWatermark\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\RJ Code Advance\Source Code C#\2019\FlatLoginWatermark\FlatLoginWatermark\obj\Debug\FlatLoginWatermark.FormLogin.resources
